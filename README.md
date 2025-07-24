@@ -18,4 +18,6 @@
 <br><br>
 
  <img src="https://streak-stats.demolab.com?user=Amalshaheen&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amalshaheen&theme=github_dark">
 </p>
