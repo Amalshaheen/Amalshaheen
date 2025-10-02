@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter, ReactJS, Microcontrollers
 - 🌱 I’m currently learning ESP32 and Making
 - 💞️ I’m looking to collaborate on Projects involving microcontroller, NodeJS, Flutter, Python and anything related to development
-- 📫 How to reach me : (linkedIn)[https://www.linkedin.com/in/amal-shaheen-84b860287/]
+- 📫 How to reach me : [linkedIn](https://www.linkedin.com/in/amal-shaheen-84b860287/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im currently an undergrad student in ECE!
 
