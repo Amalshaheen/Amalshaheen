@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amalshaheen&label=Profile views&color=0e75b6&style=flat" alt="Amalshaheen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amalshaheen" alt="Amalshaheen" /></a> </p>
 
 - 🔭 I'm currently working on **Hardware Project - Line Follower, Humanoid, etc**
 
