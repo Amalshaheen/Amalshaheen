@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amalshaheen&label=Profile views&color=0e75b6&style=flat" alt="Amalshaheen" /> </p>
 
-- 🔭 I'm currently working as a **Software Development Intern at Repatria Pvt. Ltd.** and building an **Edge-enabled Smart Healthcare Kiosk**.
+- 🔭 I'm currently working as a **Software Development Intern at Repatria Pvt. Ltd.**
 
 - 🌱 I'm currently focusing on **Full-Stack Web (Next.js, Prisma, Redis), Advanced Flutter Architectures (Riverpod, Freezed), and IoT/Embedded Systems (ESP32)**.
 
